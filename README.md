@@ -1,4 +1,4 @@
-# the-sparks-foundation
+# The-Sparks-Foundation
 Sparks Foundation Internship Project : Basic Banking System  
 A simple dynamic website used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.  
 
@@ -13,4 +13,4 @@ Database contains two Tables- Users Table & Transaction Table
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
-Website Link : https://spirillar-bilge.000webhostapp.com/
+
